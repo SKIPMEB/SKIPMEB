@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Melvin from Sweden<br><br>- 🔭 I’m working as cool dude<br>- 📚 I'm currently learning c# and lua<br>- ⚡ In my free time I play games and code</p>
+<p align="left">I'm Melvin from Sweden<br><br>- 🔭 I’m working as cool dude<br><br>- ⚡ In my free I _____</p>
 
 ###
 
