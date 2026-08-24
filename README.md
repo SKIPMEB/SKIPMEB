@@ -1,47 +1,66 @@
 <div align="center">
-  <img height="150" src="[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e67696](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.motortrend.com%2Fuploads%2F2023%2F05%2F011-2023-Volvo-S60-Recharge-AWD-Black-Edition-front-three-quarters-in-action.jpg&f=1&nofb=1&ipt=b7c45bb858d232f430f4e1f0a1b7ad30c59aeb1220307daedba43a93e1e7f692&ipo=images)"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:7c3aed,100:06b6d4&text=Melvin%20%2F%2F%20SKIPMEB&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Building%20%7C%20Breaking%20%7C%20Self-hosting&descAlignY=59&animation=fadeIn" width="100%" alt="Melvin - SKIPMEB" />
+
+<a href="https://github.com/SKIPMEB">
+  <img src="https://img.shields.io/badge/GitHub-SKIPMEB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<img src="https://komarev.com/ghpvc/?username=SKIPMEB&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+wild+ideas+into+working+systems;Linux+%E2%80%A2+Docker+%E2%80%A2+Networking+%E2%80%A2+Automation;Probably+fixing+something+I+just+broke..." alt="Typing animation" />
+
 </div>
 
-###
+## `> whoami`
+
+```yaml
+name: Melvin
+from: Sweden 🇸🇪
+username: SKIPMEB
+work: Electrician by trade ⚡
+interests:
+  - Self-hosting and homelabs
+  - Linux, Docker and networking
+  - Automation and smart systems
+  - Building useful open-source projects
+current_status: "Turning caffeine and questionable ideas into working systems"
+```
+
+## `> toolbox`
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+
+<img src="https://skillicons.dev/icons?i=python,cs,lua,js,html,css,linux,docker,git,bash,vscode,github&theme=dark&perline=6" alt="Languages and tools" />
+
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Melvin from Sweden<br><br>- 🔭 I’m working as cool dude<br><br>- ⚡ In my free I _____</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/lua/2C2D72" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## `> github_stats`
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SKIPMEB&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SKIPMEB&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9&ring_color=22d3ee" alt="Melvin's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKIPMEB&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Most used languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=SKIPMEB&theme=transparent&hide_border=true&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+
+</div>
+
+## `> currently_building`
+
+- 🐧 Experimenting with Linux servers and self-hosted services
+- 🐳 Containerizing anything that stands still long enough
+- 🌐 Learning more about networks, security and automation
+- 🔧 Building tools that solve real problems
+
+<div align="center">
+
+### Thanks for stopping by — try not to break anything 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45:7c3aed,100:06b6d4" width="100%" alt="Footer" />
+
 </div>
