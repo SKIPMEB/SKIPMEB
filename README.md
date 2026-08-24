@@ -37,16 +37,16 @@ current_status: "Turning caffeine and questionable ideas into working systems"
 
 </div>
 
-## `> github_stats`
+> github_stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SKIPMEB&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9&ring_color=22d3ee" alt="Melvin's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKIPMEB&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Most used languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKIPMEB&amp;theme=github_dark&amp;animation=load" alt="Melvin's GitHub profile details" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=SKIPMEB&theme=transparent&hide_border=true&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SKIPMEB&amp;theme=github_dark&amp;animation=load" alt="Melvin's GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SKIPMEB&amp;theme=github_dark&amp;animation=load" alt="Languages by repository" />
 
 </div>
 
