@@ -5,7 +5,7 @@
 <a href="https://github.com/SKIPMEB">
   <img src="https://img.shields.io/badge/GitHub-SKIPMEB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<img src="https://img.shields.io/badge/Discord-skipmebitch-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 <img src="https://komarev.com/ghpvc/?username=SKIPMEB&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br><br>
