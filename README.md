@@ -20,7 +20,7 @@
 name: Melvin
 from: Sweden 🇸🇪
 username: SKIPMEB
-work: Electrician by trade ⚡
+work: Secret by trade ⚡
 interests:
   - Self-hosting and homelabs
   - Linux, Docker and networking
